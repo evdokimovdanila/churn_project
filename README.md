@@ -1,2 +1,2 @@
 # churn_project
-Preict churn clients in company Orange
+Customer Churn Project
